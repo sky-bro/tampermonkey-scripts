@@ -12,10 +12,10 @@
 
 (function() {
     'use strict';
-    window.addEventListener('keypress', (event)=>{
-        let player = document.querySelector("video");
+    window.addEventListener('keypress', function(event) {
+        var player = document.querySelector("video");
         console.log(event);
-        let curRate = Number(player.playbackRate);
+        var curRate = Number(player.playbackRate);
         // vlc actually uses '[' and ']', but they are used by vimium
         if (event.key == "{") {
             console.log("{ pressed");
