@@ -2,7 +2,7 @@
 // @name        html5 video speed controller (vlc like)
 // @namespace   github.com/sky-bro
 // @version     1.0.0
-// @description Simple yet powerful html5 video speed control with '{', '}', and '=' (vlc like). '{': decrease by 0.1, '}': increase by 0.1, '=': back to 1.0x
+// @description Simple html5 video speed control with '{', '}', and '=' (vlc like). '{': decrease by 0.1, '}': increase by 0.1, '=': back to 1.0x
 // @author      https://sky-bro.github.io
 // @match       https://www.youtube.com/*
 // @match       *://*.zhihuishu.com/*
