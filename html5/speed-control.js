@@ -7,7 +7,7 @@
 // @match       https://www.youtube.com/*
 // @match       *://*.zhihuishu.com/*
 // @grant       none
-// @updateURL   https://raw.githubusercontent.com/sky-bro/tampermonkey-scripts/master/html5/speed-control.js
+// @updateURL   https://github.com/sky-bro/tampermonkey-scripts/blob/main/html5/speed-control.js
 // ==/UserScript==
 
 (function() {
